@@ -1,4 +1,10 @@
-### Hi there 👋
+# WELCOME 👋
+
+### About me:
+  📚 Computer Science student at _"Universidade Tecnológica Federal do Paraná"_ - **UTFPR** <br>
+  🏠 Paraná - Brazil <br>
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/)
+
 
 <!--
 **edersonRB/edersonRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
