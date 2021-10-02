@@ -1,10 +1,10 @@
 # WELCOME 👋
 
 ### About me:
-  📚 Computer Science student at _"Universidade Tecnológica Federal do Paraná"_ - **UTFPR** <br>
+  📚 Computer Science student at _"Universidade Tecnológica Federal do Paraná - Ponta Grossa"_ - **UTFPR-PG** <br>
   🏠 Paraná - Brazil <br>
   🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/)
-
+  📧 edersonrenan2003@hotmail.com || edersonb@alunos.utfpr.edu.br
 
 <!--
 **edersonRB/edersonRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
