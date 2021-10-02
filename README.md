@@ -3,7 +3,7 @@
 ### About me:
   📚 Computer Science student at _"Universidade Tecnológica Federal do Paraná - Ponta Grossa"_ - **UTFPR-PG** <br>
   🏠 Paraná - Brazil <br>
-  🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/)
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/) <br>
   📧 edersonrenan2003@hotmail.com || edersonb@alunos.utfpr.edu.br
 
 <!--
