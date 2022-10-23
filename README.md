@@ -5,13 +5,8 @@
   🌎 Paraná - Brazil <br>
   <hr>
   - I study programming since 2018, and it has become a passion of mine since then💻<br>
-  - Currently in third semester (second year) of Computer Science Bachelor's degree<br>
+  - Currently in fourth semester (second year) of Computer Science Bachelor's degree<br>
   <hr>
-  Technologies/topics I'm currently learning:
-  
-  * GNU Octave
-  * SQL 
-  * Data Structures
 
 ## Contact Info:
   🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/) <br>
