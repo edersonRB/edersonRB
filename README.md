@@ -4,10 +4,7 @@
   📚 **Computer Science** student at _"Federal University of Technology - Paraná"_ - **UTFPR-PG** <br>
   🌎 Paraná - Brazil <br>
   <hr>
-  - I study programming since 2018, and it has become a passion of mine since then💻<br>
-  - Currently in fourth semester (second year) of Computer Science Bachelor's degree<br>
-  <hr>
-
+  
 ## Contact Info:
   🔗 [LinkedIn Profile](https://www.linkedin.com/in/%C3%A9derson-bomfim-3814a3195/) <br>
   📧 edersonrenan2003@hotmail.com (personal) || edersonb@alunos.utfpr.edu.br (academic)
